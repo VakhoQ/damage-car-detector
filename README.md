@@ -16,5 +16,6 @@ if application is  runing, open browser and copy the followig URL
 
 `http://127.0.0.1:8000/DamageCarDetector/?img=${IMAGE_URL}`
 
-Instead of ${IMAGE_URL} please pass HTTP url of image. for example:
+Instead of ${IMAGE_URL} please pass HTTP url of image. For example:
+
 `http://127.0.0.1:8000/DamageCarDetector/?img=https://example.com/image.jpg`
