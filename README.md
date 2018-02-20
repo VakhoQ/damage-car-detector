@@ -22,6 +22,4 @@ Instead of ${IMAGE_URL} please pass HTTP url of image. For example:
 
 
 # Tensorboard information about training and validation
-![thensorboard](https://serving.photos.photobox.com/47059690d7f0d1026e7a085567b839106c854a7818a045b83dd69529ce520768b41ffe2d.jpg
-
-)
+![thensorboard](https://serving.photos.photobox.com/47059690d7f0d1026e7a085567b839106c854a7818a045b83dd69529ce520768b41ffe2d.jpg)
