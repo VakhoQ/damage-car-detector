@@ -1,0 +1,21 @@
+<html>
+
+<body>
+
+
+<div align="center">
+    <p> Your car is</p>
+    {% if car_status == "damaged" %}
+        <font color="red"><p> DAMAGED - {{ score }} %</p></font>
+        <img src="/static/img/bad.jpg">
+    {% else %}
+        <font color="green"><p> GOOD - {{ score }} %</p></font>
+        <img src="/static/img/good.jpg">
+    {% endif %}
+    <br><br>
+    <img src="{{ img }}" height="500">
+</div>
+
+</body>
+
+</html>
